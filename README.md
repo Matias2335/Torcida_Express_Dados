@@ -40,18 +40,18 @@ Este projeto consiste em um banco de dados relacional para gerenciamento de **to
    CREATE DATABASE futebol_viagens;
 
 2. **Executar o script de criação das tabelas (ddl.sql):**
-No terminal ou pgAdmin:
+  No terminal ou pgAdmin:
 
-    \c futebol_viagens
-    \i caminho/para/ddl.sql
+       \c futebol_viagens
+        \i caminho/para/ddl.sql
    
 3.**Executar o script de inserção dos dados (insert.sql):**
 
-  \i caminho/para/insert.sql
+    \i caminho/para/insert.sql
   
 4.**Executar as consultas (questoes.sql)**:
 
-  \i caminho/para/questoes.sql
+    \i caminho/para/questoes.sql
 
   
 **As consultas vão exibir resultados como:**
