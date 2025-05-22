@@ -5,7 +5,7 @@
   Matrícula: 22.222.059-2 
 - Nome: FERNANDO DOMINGUES   
   Matrícula: 22.122.034-6
-- Nome: GUILHERME MATIAS R DE SOUZA
+- Nome: GUILHERME MATIAS R DE SOUZA /n
   Matrícula: 22.122.071-8
 
 ---
