@@ -55,13 +55,7 @@ Este projeto consiste em um banco de dados relacional para gerenciamento de **to
 
 - E outras informações úteis
 
-Obs úteis 💡:
 
-- Os scripts foram projetados para funcionar com PostgreSQL.
-
-- O ddl.sql possui comandos DROP TABLE IF EXISTS para garantir recriação limpa.
-
-- Há integridade referencial entre todas as tabelas via FOREIGN KEY.
 
 **Diagrama relacional**
 
