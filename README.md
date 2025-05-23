@@ -1,13 +1,11 @@
 # Torcida_Express_Dados
 ## 👥 Integrantes do Grupo
 
-- Nome: FELIPE DA ROCHA PINHEIRO  
-  Matrícula: 22.222.059-2 
-- Nome: FERNANDO DOMINGUES   
-  Matrícula: 22.122.034-6
-- Nome: GUILHERME MATIAS R DE SOUZA 
+## 👥 Integrantes
 
-  Matrícula: 22.122.071-8
+- **Nome:** Guilherme Matias Rodrigues de Souza — **RA:** 22.122.071-8 
+- **Nome:** Fernando Domingues — **RA:** 22.122.034-6
+- **Nome:** Felipe da Rocha Pinheiro — **RA:** 22.222.059-2
 
 ---
 
@@ -25,35 +23,25 @@ Este projeto consiste em um banco de dados relacional para gerenciamento de **to
 
 ---
 
-## ▶️ Como Executar o Projeto
+## ▶️ Como Executar
 
-### Pré-requisitos
+1. **Abra seu gerenciador de banco de dados**
+   - Banco de dados utilizando(Supabase).
 
-- PostgreSQL instalado (ou outro SGBD compatível)
-- Uma ferramenta cliente como pgAdmin, DBeaver ou o terminal do próprio PostgreSQL
+2. **Crie um novo banco de dados**
+   - criei um projeto novo 
+4. **Execute o script de criação das tabelas**
+   - Ir até a aba lateral SQL Editor e adicionar o arquivo: `DDL+dropteste.sql` 
 
-### Passo a passo
+5. **Insira os dados fictícios**
+   - Repetir o processo do item anterior no arquivo: `Insert.sql`
 
-1. **Criar um banco de dados:**
+6. **Execute as queries**
+   - Para testar abra o arquivo: `questoes.sql` e execute exercicio por exercicio no SQL Editor 
 
-   No PostgreSQL:
-   ```sql
-   CREATE DATABASE futebol_viagens;
+7. **Valide os resultados**
 
-2. **Executar o script de criação das tabelas (ddl.sql):**
-  No terminal ou pgAdmin:
-
-       \c futebol_viagens
-        \i caminho/para/ddl.sql
-   
-3.**Executar o script de inserção dos dados (insert.sql):**
-
-    \i caminho/para/insert.sql
-  
-4.**Executar as consultas (questoes.sql)**:
-
-    \i caminho/para/questoes.sql
-
+---
   
 **As consultas vão exibir resultados como:**
 
