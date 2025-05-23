@@ -34,7 +34,7 @@ Este projeto consiste em um banco de dados relacional para gerenciamento de **to
    - Ir até a aba lateral SQL Editor e adicionar o arquivo: `ddl.sql` 
 
 5. **Insira os dados fictícios**
-   - Repetir o processo do item anterior no arquivo: `Insert.sql`
+   - Repetir o processo do item anterior no arquivo: `insert.sql`
 
 6. **Execute as queries**
    - Para testar abra o arquivo: `questoes.sql` e execute exercicio por exercicio no SQL Editor 
