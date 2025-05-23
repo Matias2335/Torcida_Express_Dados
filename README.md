@@ -111,4 +111,5 @@ Questões :
 
 
 
+![Imagem do WhatsApp de 2025-05-22 à(s) 22 20 05_76154c1e](https://github.com/user-attachments/assets/a098df9a-8abe-4e27-b4f9-62ffe82654a3)
 
