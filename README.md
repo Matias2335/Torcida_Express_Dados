@@ -65,30 +65,29 @@ Este projeto consiste em um banco de dados relacional para gerenciamento de **to
 
 ![Imagem do WhatsApp de 2025-05-22 à(s) 22 20 05_76154c1e](https://github.com/user-attachments/assets/a098df9a-8abe-4e27-b4f9-62ffe82654a3)
 
-
-
-![Imagem do WhatsApp de 2025-05-22 à(s) 22 11 38_4a8d9c44](https://github.com/user-attachments/assets/e9abe56d-27cb-48e9-a8b0-5c4fbe00126d)
 Questões :
-1 -
+1)
+![Imagem do WhatsApp de 2025-05-22 à(s) 22 11 38_4a8d9c44](https://github.com/user-attachments/assets/e9abe56d-27cb-48e9-a8b0-5c4fbe00126d)
 
+
+2)
 ![Imagem do WhatsApp de 2025-05-22 à(s) 22 07 58_0e166a17](https://github.com/user-attachments/assets/6cabbdce-6f76-4d7d-a392-9cb537ba15a3)<br>
-2 - 
 
 
+3)
 ![Imagem do WhatsApp de 2025-05-22 à(s) 22 08 29_461e3076](https://github.com/user-attachments/assets/c924a516-ad70-4689-a68e-7f1b231f1424)<br>
-3 - 
 
 
+4)
 ![Imagem do WhatsApp de 2025-05-22 à(s) 22 08 49_a7f655bb](https://github.com/user-attachments/assets/d4c5f02a-d0f1-4e7a-ba7a-b8b03e65ee60)<br>
-4 - 
 
 
+5)
 ![Imagem do WhatsApp de 2025-05-22 à(s) 22 09 06_65a7f837](https://github.com/user-attachments/assets/f146d4e3-944c-452c-aaef-f5e17b9aac68)<br>
-5 - 
 
 
+6)
 ![Imagem do WhatsApp de 2025-05-22 à(s) 22 09 44_0040bb6c](https://github.com/user-attachments/assets/819c65b6-4a99-41c7-83de-a224a30f1fd4)<br>
-6 - 
 
 
 ![Imagem do WhatsApp de 2025-05-22 à(s) 22 10 06_ae1172ac](https://github.com/user-attachments/assets/f7be78ae-0168-4398-8ce3-140a61b722b8)<br>
