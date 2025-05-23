@@ -66,3 +66,30 @@ Obs úteis 💡:
 **Diagrama relacional**
 
 ![image](https://github.com/user-attachments/assets/e89cc701-8b38-4944-a865-92585d9c14f8)
+
+Questões :
+1 -
+![Imagem do WhatsApp de 2025-05-22 à(s) 22 07 58_0e166a17](https://github.com/user-attachments/assets/6cabbdce-6f76-4d7d-a392-9cb537ba15a3)
+2 - 
+![Imagem do WhatsApp de 2025-05-22 à(s) 22 08 29_461e3076](https://github.com/user-attachments/assets/c924a516-ad70-4689-a68e-7f1b231f1424)
+3 - 
+![Imagem do WhatsApp de 2025-05-22 à(s) 22 08 49_a7f655bb](https://github.com/user-attachments/assets/d4c5f02a-d0f1-4e7a-ba7a-b8b03e65ee60)
+4 - 
+![Imagem do WhatsApp de 2025-05-22 à(s) 22 09 06_65a7f837](https://github.com/user-attachments/assets/f146d4e3-944c-452c-aaef-f5e17b9aac68)
+5 - 
+![Imagem do WhatsApp de 2025-05-22 à(s) 22 09 44_0040bb6c](https://github.com/user-attachments/assets/819c65b6-4a99-41c7-83de-a224a30f1fd4)
+6 - 
+![Imagem do WhatsApp de 2025-05-22 à(s) 22 10 06_ae1172ac](https://github.com/user-attachments/assets/f7be78ae-0168-4398-8ce3-140a61b722b8)
+7 - 
+![Imagem do WhatsApp de 2025-05-22 à(s) 22 10 35_faf04195](https://github.com/user-attachments/assets/4728dbaf-80bf-4faf-bb78-01fd6f072ac6)
+8 - 
+![Imagem do WhatsApp de 2025-05-22 à(s) 22 10 54_f49236e5](https://github.com/user-attachments/assets/36e44403-2a82-46b2-ba26-e363a7d82cef)
+9 -
+![Imagem do WhatsApp de 2025-05-22 à(s) 22 11 10_a3ae97f1](https://github.com/user-attachments/assets/64fcafb8-40a7-4097-8db1-651a5228cfd8)
+10 -
+![Imagem do WhatsApp de 2025-05-22 à(s) 22 11 38_4a8d9c44](https://github.com/user-attachments/assets/e9abe56d-27cb-48e9-a8b0-5c4fbe00126d)
+
+
+
+
+
