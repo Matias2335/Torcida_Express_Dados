@@ -57,9 +57,13 @@ Este projeto consiste em um banco de dados relacional para gerenciamento de **to
 
 
 
-**Diagrama relacional**
+✅ Modelo Entidade-Relacionamento (MER)
 
 ![image](https://github.com/user-attachments/assets/e89cc701-8b38-4944-a865-92585d9c14f8)
+
+✅ Modelo Relacional (3FN)
+
+![Imagem do WhatsApp de 2025-05-22 à(s) 22 20 05_76154c1e](https://github.com/user-attachments/assets/a098df9a-8abe-4e27-b4f9-62ffe82654a3)
 
 **Modelo Relacional**
 ![Imagem do WhatsApp de 2025-05-22 à(s) 22 11 38_4a8d9c44](https://github.com/user-attachments/assets/e9abe56d-27cb-48e9-a8b0-5c4fbe00126d)
@@ -107,5 +111,5 @@ Questões :
 
 
 
-![Imagem do WhatsApp de 2025-05-22 à(s) 22 20 05_76154c1e](https://github.com/user-attachments/assets/a098df9a-8abe-4e27-b4f9-62ffe82654a3)
+
 
